@@ -1,0 +1,42 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux-dev.org:3000/annotations/jay/81285178.4931.emory.edu/list/81285178.4931.emory.edu$1",
+    "@type": "sc:AnnotationList",
+    "resources": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@id": "dc17c0a0-1e6d-4f03-8f2c-b62bbc3c81b2",
+            "@type": "oa:Annotation",
+            "motivation": "oa:commenting",
+            "annotatedBy": {
+                "name": "Jay Varner"
+            },
+            "resource": {
+                "@type": "dctypes:Text",
+                "format": "text/html",
+                "chars": "<p>oval</p>",
+                "language": "en"
+            },
+            "on": {
+                "full": "https://readux-dev.org:3000/iiif/v2/81285178.4931.emory.edu/canvas/81285178.4931.emory.edu$1",
+                "@type": "oa:SpecificResource",
+                "within": {
+                    "@id": "https://readux-dev.org:3000/iiif/v2/81285178.4931.emory.edu/manifest",
+                    "@type": "sc:Manifest"
+                },
+                "selector": {
+                    "@type": "oa:FragmentSelector",
+                    "value": "xywh=255,499,560,468",
+                    "item": {
+                        "@type": "oa:Choice",
+                        "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M336.85215,567.11385c51.70796,-39.26321 124.65042,-68.5012 197.94635,-68.46627v0v0c73.29593,0.03493 137.14898,27.3866 197.94635,68.46627c60.79736,41.07967 84.42853,103.67716 81.99206,165.29219c-2.43646,61.61503 -30.94056,122.2476 -81.99206,165.29219c-51.0515,43.04459 -124.65042,68.5012 -197.94635,68.46627c-73.29593,-0.03493 -146.28888,-25.5614 -197.94635,-68.46627c-51.65746,-42.90486 -81.97944,-103.18811 -81.99206,-165.29219c-0.01262,-62.10408 30.2841,-126.02897 81.99206,-165.29219z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;newlyCreatedStrokeFactor&quot;:5,&quot;newlyCreated&quot;:true,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_eb6c7bdf-24ad-4889-a2e6-e68f04dfa632\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=255,499,560,468"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

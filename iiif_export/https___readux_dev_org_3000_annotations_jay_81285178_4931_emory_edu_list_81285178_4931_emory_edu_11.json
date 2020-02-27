@@ -1,0 +1,6 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://readux-dev.org:3000/annotations/jay/81285178.4931.emory.edu/list/81285178.4931.emory.edu$11",
+    "@type": "sc:AnnotationList",
+    "resources": []
+}
