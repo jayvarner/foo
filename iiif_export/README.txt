@@ -1,6 +1,6 @@
 Annotation export from Readux v2 at https://readux-dev.org:3000
 edition type: Readux IIIF Exported Edition
-export date: 2020-02-27 15:00:28.045689 UTC
+export date: 2020-02-27 23:01:14.215424 UTC
 
 volume title: Hadriani Iunii medici Emblemata, ad D. Arnoldum Cobelium : eiusdem Aenigmatum libellus, ad D. Arnoldum Rosenbergum
 volume author: Junius, Hadrianus, 1511-1575.; Kampen, Geeraard Jansen van, fl. 1564-1589,; Nicolai, Arnaud,; Ballain, Geoffroy, 16th cent.,; Huys, Pieter, 1519-1581,; Junius, Hadrianus, 1511-1575.; Plantin, Christophe, ca. 1520-1589,; Abrams, George, 1919-2001,
